@@ -70,3 +70,42 @@ Mocht je accounts handmatig willen goedkeuren dan kan je dat op de volgende mani
 De backend draait nu officieel!
 
 </details>
+
+<details>
+<summary><strong>IncidentenApp Android app – Quickstart Guide</strong></summary>
+Deze quickstart beschrijft hoe je de IncidentenApp in Android Studio kan draaien.
+
+
+## Vereisten
+- [Android Studio](https://developer.android.com/studio)
+- [Java 17](https://adoptium.net/temurin/releases/?version=17) 
+
+
+## Installatie-instructies
+
+**Stap 1**  
+Clone de volgende repository:  
+https://github.com/rivm-syso/IncidentenAppAndroid
+
+**Stap 2**  
+Open de geclonede map in **Android Studio**.
+
+**Stap 3**  
+Stel in Android Studio de **Java-versie in op Java 17**.
+
+**Stap 4**  
+Zodra het project is geopend, configureer en start je een **emulated Android-device (zie stap 5)**.
+
+**Stap 5**  
+Volg onderstaande YouTube-video voor uitleg over het gebruiken van een Android emulator in Android Studio:  
+https://www.youtube.com/watch?v=zcrhTrfE1e4
+
+**Stap 6** 
+Druk bovenin op run en de applicatie zal draaien op de android emulator!
+
+
+
+
+</details>
+
+
