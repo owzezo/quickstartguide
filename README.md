@@ -66,11 +66,4 @@ Mocht je accounts handmatig willen goedkeuren dan kan je dat op de volgende mani
 2. Keur hier de geregistreerde apparaten goed
 
 ## Afronding
-
-De backend draait nu lokaal en is gereed voor gebruik in combinatie met de Android applicatie.
-
-
-## Afronding
-
-De backend draait nu lokaal en is gereed voor gebruik in combinatie met de Android applicatie.
-
+De backend draait nu officieel!
