@@ -1,4 +1,5 @@
-# IncidentenApp Backend - Quickstart Guide
+<details>
+<summary><strong>IncidentenApp Backend – Quickstart Guide</strong></summary>
 Deze quickstart beschrijft hoe je de IncidentenApp backend lokaal start met Docker.
 
 ## Vereisten
@@ -67,3 +68,5 @@ Mocht je accounts handmatig willen goedkeuren dan kan je dat op de volgende mani
 
 ## Afronding
 De backend draait nu officieel!
+
+</details>
